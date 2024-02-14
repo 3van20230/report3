@@ -1,4 +1,4 @@
-Part1:
+# Part1:
 I chose ArrayExamples.java from lab 4 
 
 Failure including input 
@@ -54,7 +54,7 @@ In the fixed code correctly reversal of the array.
 
 
 
-Part2:
+# Part2:
 For part 2 I want to focus on `grep`
 4 interesting command for `grep` which is `-r`,`-i`,`-n`,and `-v`
 2 example for `-r`
